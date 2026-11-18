@@ -1,0 +1,2685 @@
+{
+  "source_archive": "Mythic_Pets_NEW_RIGS_440_Animations.zip",
+  "species": [
+    "Abyss_Serpent",
+    "Blossom_Wolf",
+    "Celestial_Mantis",
+    "Crystal_Turtle",
+    "Ember_Lion",
+    "Glacier_Stag",
+    "Lunar_Fox",
+    "Magma_Golem",
+    "Royal_Griffin",
+    "Solar_Phoenix",
+    "Storm_Dragon",
+    "Thorn_Rhino"
+  ],
+  "species_count": 12,
+  "animation_count": 440,
+  "clips_by_species": {
+    "Abyss_Serpent": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 1.1,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Threaten.fbx"
+      },
+      {
+        "clip": "Bite",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Bite.fbx"
+      },
+      {
+        "clip": "TailWhip",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_TailWhip.fbx"
+      },
+      {
+        "clip": "Pounce",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Abyss_Serpent/Animations/Abyss_Serpent_Pounce.fbx"
+      }
+    ],
+    "Blossom_Wolf": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Threaten.fbx"
+      },
+      {
+        "clip": "Howl",
+        "seconds": 2.4,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Howl.fbx"
+      },
+      {
+        "clip": "Bite",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Bite.fbx"
+      },
+      {
+        "clip": "Pounce",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Pounce.fbx"
+      },
+      {
+        "clip": "Sit",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Blossom_Wolf/Animations/Blossom_Wolf_Sit.fbx"
+      }
+    ],
+    "Celestial_Mantis": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Threaten.fbx"
+      },
+      {
+        "clip": "ScytheSlash",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_ScytheSlash.fbx"
+      },
+      {
+        "clip": "Pounce",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Pounce.fbx"
+      },
+      {
+        "clip": "WingGust",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_WingGust.fbx"
+      },
+      {
+        "clip": "Fly",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Fly.fbx"
+      },
+      {
+        "clip": "FastFly",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_FastFly.fbx"
+      },
+      {
+        "clip": "Glide",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Glide.fbx"
+      },
+      {
+        "clip": "Takeoff",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Takeoff.fbx"
+      },
+      {
+        "clip": "Landing",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Landing.fbx"
+      },
+      {
+        "clip": "AirAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_AirAttack.fbx"
+      },
+      {
+        "clip": "AirHit",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_AirHit.fbx"
+      },
+      {
+        "clip": "AirTurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_AirTurnLeft.fbx"
+      },
+      {
+        "clip": "AirTurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_AirTurnRight.fbx"
+      },
+      {
+        "clip": "Hover",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Celestial_Mantis/Animations/Celestial_Mantis_Hover.fbx"
+      }
+    ],
+    "Crystal_Turtle": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Threaten.fbx"
+      },
+      {
+        "clip": "ShellHide",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_ShellHide.fbx"
+      },
+      {
+        "clip": "CrystalPulse",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_CrystalPulse.fbx"
+      },
+      {
+        "clip": "Bite",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Crystal_Turtle/Animations/Crystal_Turtle_Bite.fbx"
+      }
+    ],
+    "Ember_Lion": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Threaten.fbx"
+      },
+      {
+        "clip": "Roar",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Roar.fbx"
+      },
+      {
+        "clip": "Bite",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Bite.fbx"
+      },
+      {
+        "clip": "Pounce",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_Pounce.fbx"
+      },
+      {
+        "clip": "TailWhip",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Ember_Lion/Animations/Ember_Lion_TailWhip.fbx"
+      }
+    ],
+    "Glacier_Stag": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Threaten.fbx"
+      },
+      {
+        "clip": "HornCharge",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_HornCharge.fbx"
+      },
+      {
+        "clip": "Call",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Glacier_Stag/Animations/Glacier_Stag_Call.fbx"
+      }
+    ],
+    "Lunar_Fox": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Threaten.fbx"
+      },
+      {
+        "clip": "Howl",
+        "seconds": 2.4,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Howl.fbx"
+      },
+      {
+        "clip": "Bite",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Bite.fbx"
+      },
+      {
+        "clip": "Pounce",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Pounce.fbx"
+      },
+      {
+        "clip": "Sit",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Lunar_Fox/Animations/Lunar_Fox_Sit.fbx"
+      }
+    ],
+    "Magma_Golem": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 2.0,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Threaten.fbx"
+      },
+      {
+        "clip": "Roar",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_Roar.fbx"
+      },
+      {
+        "clip": "GroundSlam",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_GroundSlam.fbx"
+      },
+      {
+        "clip": "CrystalPulse",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Magma_Golem/Animations/Magma_Golem_CrystalPulse.fbx"
+      }
+    ],
+    "Royal_Griffin": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Threaten.fbx"
+      },
+      {
+        "clip": "Roar",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Roar.fbx"
+      },
+      {
+        "clip": "Peck",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Peck.fbx"
+      },
+      {
+        "clip": "WingGust",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_WingGust.fbx"
+      },
+      {
+        "clip": "Pounce",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Pounce.fbx"
+      },
+      {
+        "clip": "Fly",
+        "seconds": 1.0,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Fly.fbx"
+      },
+      {
+        "clip": "FastFly",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_FastFly.fbx"
+      },
+      {
+        "clip": "Glide",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Glide.fbx"
+      },
+      {
+        "clip": "Takeoff",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Takeoff.fbx"
+      },
+      {
+        "clip": "Landing",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Landing.fbx"
+      },
+      {
+        "clip": "AirAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_AirAttack.fbx"
+      },
+      {
+        "clip": "AirHit",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_AirHit.fbx"
+      },
+      {
+        "clip": "AirTurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_AirTurnLeft.fbx"
+      },
+      {
+        "clip": "AirTurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_AirTurnRight.fbx"
+      },
+      {
+        "clip": "Hover",
+        "seconds": 1.0,
+        "loop": true,
+        "fbx": "Royal_Griffin/Animations/Royal_Griffin_Hover.fbx"
+      }
+    ],
+    "Solar_Phoenix": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Threaten.fbx"
+      },
+      {
+        "clip": "Peck",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Peck.fbx"
+      },
+      {
+        "clip": "WingGust",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_WingGust.fbx"
+      },
+      {
+        "clip": "Call",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Call.fbx"
+      },
+      {
+        "clip": "Fly",
+        "seconds": 1.0,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Fly.fbx"
+      },
+      {
+        "clip": "FastFly",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_FastFly.fbx"
+      },
+      {
+        "clip": "Glide",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Glide.fbx"
+      },
+      {
+        "clip": "Takeoff",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Takeoff.fbx"
+      },
+      {
+        "clip": "Landing",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Landing.fbx"
+      },
+      {
+        "clip": "AirAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_AirAttack.fbx"
+      },
+      {
+        "clip": "AirHit",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_AirHit.fbx"
+      },
+      {
+        "clip": "AirTurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_AirTurnLeft.fbx"
+      },
+      {
+        "clip": "AirTurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_AirTurnRight.fbx"
+      },
+      {
+        "clip": "Hover",
+        "seconds": 1.0,
+        "loop": true,
+        "fbx": "Solar_Phoenix/Animations/Solar_Phoenix_Hover.fbx"
+      }
+    ],
+    "Storm_Dragon": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Threaten.fbx"
+      },
+      {
+        "clip": "Roar",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Roar.fbx"
+      },
+      {
+        "clip": "Bite",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Bite.fbx"
+      },
+      {
+        "clip": "TailWhip",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_TailWhip.fbx"
+      },
+      {
+        "clip": "BreathAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_BreathAttack.fbx"
+      },
+      {
+        "clip": "Fly",
+        "seconds": 1.0,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Fly.fbx"
+      },
+      {
+        "clip": "FastFly",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_FastFly.fbx"
+      },
+      {
+        "clip": "Glide",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Glide.fbx"
+      },
+      {
+        "clip": "Takeoff",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Takeoff.fbx"
+      },
+      {
+        "clip": "Landing",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Landing.fbx"
+      },
+      {
+        "clip": "AirAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_AirAttack.fbx"
+      },
+      {
+        "clip": "AirHit",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_AirHit.fbx"
+      },
+      {
+        "clip": "AirTurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_AirTurnLeft.fbx"
+      },
+      {
+        "clip": "AirTurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_AirTurnRight.fbx"
+      },
+      {
+        "clip": "Hover",
+        "seconds": 1.0,
+        "loop": true,
+        "fbx": "Storm_Dragon/Animations/Storm_Dragon_Hover.fbx"
+      }
+    ],
+    "Thorn_Rhino": [
+      {
+        "clip": "Idle",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Idle.fbx"
+      },
+      {
+        "clip": "Alert",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Alert.fbx"
+      },
+      {
+        "clip": "LookAround",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_LookAround.fbx"
+      },
+      {
+        "clip": "Walk",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Walk.fbx"
+      },
+      {
+        "clip": "Run",
+        "seconds": 0.8,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Run.fbx"
+      },
+      {
+        "clip": "Sprint",
+        "seconds": 0.6,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Sprint.fbx"
+      },
+      {
+        "clip": "WalkBackward",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_WalkBackward.fbx"
+      },
+      {
+        "clip": "StrafeLeft",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_StrafeLeft.fbx"
+      },
+      {
+        "clip": "StrafeRight",
+        "seconds": 1.2,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_StrafeRight.fbx"
+      },
+      {
+        "clip": "TurnLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_TurnLeft.fbx"
+      },
+      {
+        "clip": "TurnRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_TurnRight.fbx"
+      },
+      {
+        "clip": "Start",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Start.fbx"
+      },
+      {
+        "clip": "Stop",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Stop.fbx"
+      },
+      {
+        "clip": "Jump",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Jump.fbx"
+      },
+      {
+        "clip": "Land",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Land.fbx"
+      },
+      {
+        "clip": "DodgeLeft",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_DodgeLeft.fbx"
+      },
+      {
+        "clip": "DodgeRight",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_DodgeRight.fbx"
+      },
+      {
+        "clip": "Attack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Attack.fbx"
+      },
+      {
+        "clip": "HeavyAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_HeavyAttack.fbx"
+      },
+      {
+        "clip": "ComboAttack",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_ComboAttack.fbx"
+      },
+      {
+        "clip": "HitFront",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_HitFront.fbx"
+      },
+      {
+        "clip": "HitLeft",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_HitLeft.fbx"
+      },
+      {
+        "clip": "HitRight",
+        "seconds": 0.7,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_HitRight.fbx"
+      },
+      {
+        "clip": "Stun",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Stun.fbx"
+      },
+      {
+        "clip": "Death",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Death.fbx"
+      },
+      {
+        "clip": "Rest",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Rest.fbx"
+      },
+      {
+        "clip": "Sleep",
+        "seconds": 2.4,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Sleep.fbx"
+      },
+      {
+        "clip": "Wake",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Wake.fbx"
+      },
+      {
+        "clip": "Happy",
+        "seconds": 1.6,
+        "loop": true,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Happy.fbx"
+      },
+      {
+        "clip": "Threaten",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Threaten.fbx"
+      },
+      {
+        "clip": "Roar",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_Roar.fbx"
+      },
+      {
+        "clip": "HornCharge",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_HornCharge.fbx"
+      },
+      {
+        "clip": "GroundSlam",
+        "seconds": 1.6,
+        "loop": false,
+        "fbx": "Thorn_Rhino/Animations/Thorn_Rhino_GroundSlam.fbx"
+      }
+    ]
+  }
+}
